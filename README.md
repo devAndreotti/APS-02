@@ -1,12 +1,12 @@
 <!-- Projeto Finalizado -->
-# 🔐 KeyVault - Cifra de Deslocamento Unitária
+# 🔐 KeyVault - Cifra de César
 <p align="center">
   <!-- Contador de linguagens do GitHub -->
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/devAndreotti/APS-02?color=FFF&labelColor=635184&style=flat-square">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/devAndreotti/APS-02?color=FFF&labelColor=3b304f&style=flat-square">
   <!-- Tamanho do repositório no GitHub -->
-  <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/devAndreotti/APS-02?color=FFF&labelColor=635184&style=flat-square">
+  <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/devAndreotti/APS-02?color=FFF&labelColor=3b304f&style=flat-square">
   <!-- Licença do GitHub -->
-  <img alt="GitHub License" src="https://img.shields.io/github/license/devAndreotti/devAndreotti?color=FFF&labelColor=635184&style=flat-square">
+  <img alt="GitHub License" src="https://img.shields.io/github/license/devAndreotti/devAndreotti?color=FFF&labelColor=3b304f&style=flat-square">
 </p>
 
 <div align="center">
@@ -17,9 +17,9 @@
 O **KeyVault** é um programa desenvolvido em Python que implementa a Cifra de Deslocamento Unitária, uma variação da Cifra de César. O objetivo é permitir a criptografia e descriptografia de textos usando duas chaves distintas, garantindo um nível adicional de segurança.
 
 ## ⚙️ Como Funciona
-- **Criptografia**: O texto original é criptografado utilizando duas chaves, que aplicam deslocamentos diferentes para cada caractere.
 - **Descriptografia**: O texto cifrado pode ser revertido ao original usando as mesmas chaves, através do processo inverso de deslocamento.
-- **Interatividade**: O programa oferece um menu intuitivo, onde o usuário pode escolher entre criptografar, descriptografar ou aprender mais sobre o funcionamento da cifra.
+- **Criptografia**: O texto original é criptografado utilizando duas chaves, que aplicam deslocamentos diferentes para cada caractere.
+- **Interatividade**: Menu permite criptografar, descriptografar ou aprender sobre o projeto.
 
 ## 💻 Acessibilidade
 O **KeyVault** foi projetado com simplicidade e acessibilidade em mente. O menu do programa é fácil de navegar e as instruções são claras, permitindo que qualquer usuário, mesmo sem experiência em criptografia, possa utilizá-lo.
@@ -34,11 +34,17 @@ O **KeyVault** foi projetado com simplicidade e acessibilidade em mente. O menu 
 
 ## 🧭 Guia de Implementação
 1. **Clone o Repositório**
+   - Para obter uma cópia local do projeto, execute o seguinte comando no terminal:
    ```bash
-   git clone https://github.com/devAndreotti/keyvault.git
+   git clone https://github.com/devAndreotti/APS-02.git
    ```
-2. **Execute o Programa**
-   - Navegue até o diretório do projeto e execute o script principal:
+2. **Acesse o Diretório do Projeto**
+   - Navegue até o diretório onde o repositório foi clonado:
+   ```bash
+   cd pasta-do-projeto
+   ```
+3. **Execute o Programa**
+   - Agora, execute o script principal para iniciar o programa:
    ```bash
    python keyvault.py
    ```
@@ -52,4 +58,4 @@ Contribuições são bem-vindas! Siga estas etapas para colaborar:
 5. Abra um Pull Request.
 
 ## 📝 Nota
-Este projeto foi desenvolvido como um exercício para aprimorar habilidades em criptografia e lógica de programação. Sinta-se à vontade para explorar, adaptar e expandir o código conforme necessário.
+Este projeto foi desenvolvido como parte de um trabalho em grupo para a faculdade, realizado uma vez a cada semestre. O trabalho envolve a criação de soluções práticas e aplicáveis que demonstrem o conhecimento adquirido ao longo do curso.
