@@ -25,7 +25,7 @@ O **KeyVault** é um programa desenvolvido em Python que implementa a Cifra de D
 O **KeyVault** foi projetado com simplicidade e acessibilidade em mente. O menu do programa é fácil de navegar e as instruções são claras, permitindo que qualquer usuário, mesmo sem experiência em criptografia, possa utilizá-lo.
 
 ## 🛠 Tecnologias Utilizadas
-- **Python 3**: Linguagem de programação utilizada para desenvolver o script.
+- **Python**: Linguagem de programação utilizada para desenvolver o script.
 - **Biblioteca OS**: Utilizada para limpar o terminal e melhorar a experiência do usuário.
 - **Biblioteca Time**: Implementada para adicionar pausas e temporizações no fluxo do programa.
 
@@ -59,3 +59,8 @@ Contribuições são bem-vindas! Siga estas etapas para colaborar:
 
 ## 📝 Nota
 Este projeto foi desenvolvido como parte de um trabalho em grupo para a faculdade, realizado uma vez a cada semestre. O trabalho envolve a criação de soluções práticas e aplicáveis que demonstrem o conhecimento adquirido ao longo do curso.
+
+<br>
+
+---
+<p align="center"> Desenvolvido por <a href="https://github.com/devAndreotti">Ricardo Andreotti Gonçalves</a> </p>
